@@ -13,26 +13,27 @@ Raijin brings everyday browsing essentials into a focused native interface — w
 | | What you get |
 | :-- | :-- |
 | 🛡️ **Built-in ad & tracker blocking** | Native filtering and cosmetic protection, with filter-list updates independent of browser releases. |
-| 🗂️ **Tabs your way** | Vertical or horizontal tabs, spaces to group them, drag to reorder, tab search, keyboard commands and intelligent tab suspension. |
+| 🗂️ **Tabs your way** | Vertical or horizontal tabs, spaces to group them, drag to reorder, tab search, keyboard commands and intelligent tab suspension. Switching layouts fades smoothly. |
 | 🌙 **Comfortable reading** | Native website dark mode with a simple on/off switch, Follow website, per-site exclusions and a schedule, plus reader mode. |
 | 🔒 **Privacy controls** | InPrivate browsing, HTTPS-first protection, tracking-parameter removal, site permissions and browsing-data controls. |
 | 🔎 **Smart address bar** | Suggestions from your history, bookmarks and popular sites as you type — all on your PC; nothing is sent until you press Enter. |
-| 🔖 **Your daily essentials** | Bookmarks, history, password saving, autofill and session recovery. |
+| 🔖 **Your daily essentials** | A bookmarks bar with one-click folders, plus bookmarks, history, password saving, autofill and session recovery. |
 | 📥 **Useful tools** | Download controls for pause, resume and cancel, plus a screenshot tool. |
 | 🧩 **Extension support** | Install compatible Chrome and Edge extensions, with automatic updates for supported Store-sourced installations. |
 | 📦 **An easier move** | Optional Chrome/Edge bookmark and history import in the welcome and Settings. |
-| 🎨 **Make it yours** | Midnight, Light and Pink themes, and a welcome that sets up tabs, website appearance and search in a few clicks. |
+| 🎨 **Make it yours** | Eight themes, each with a live preview card: Charge, Light, Pink, Rose gold, Frosted glass, Aurora, Dusk and Ember. A welcome sets up theme, tabs, website appearance and search in a few clicks. |
+| ✨ **Smooth and modern** | Icon-led menus, plus tab and loading animations that run at your display's refresh rate and use no extra power when nothing moves. |
 | 🔄 **Authenticated updates** | Compatible browser updates download and verify automatically; restart to finish. |
 
 ## 🚀 Get started
 
 ### [Download the latest Raijin for Windows x64](https://github.com/isvex/Raijin/releases/latest)
 
-1. Download and run the **Raijin-Setup** installer from the latest release.
+1. Download and run the **Raijin Setup** installer from the latest release.
 2. Follow the welcome steps and optionally import bookmarks and history.
 3. Make yourself at home — choose your tab layout, theme and privacy preferences in Settings.
 
-**Requirements:** Windows x64, build 19045 or later. Setup includes the private .NET runtime when needed and checks Evergreen WebView2. Internet access may be needed for prerequisites, protection lists and updates. **Free to use; no Raijin account or subscription required.**
+**Requirements:** Windows x64, build 19045 or later. Setup checks Evergreen WebView2. Internet access may be needed for prerequisites, protection lists and updates. **Free to use; no Raijin account or subscription required.**
 
 ## 🔄 Updates made simple
 
